@@ -1,4 +1,4 @@
 # gr-tutorial
-This is a really first test
+The basic behind this repository is to show the complete flow to create custom blocks in Gnuradio in both C++ and Python. We'll go through several steps starting with the official tutorial given by GNURadio on their wiki (https://wiki.gnuradio.org/index.php/OutOfTreeModules)
 
-Link to the [wiki](../../wiki)
+Just go in the [wiki](../../wiki) for further instructions
