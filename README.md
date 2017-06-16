@@ -1,3 +1,3 @@
 # gr-tutorial
 
-Link to the [wiki](../wiki)
+Link to the [wiki](../../wiki)
