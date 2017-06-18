@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<block>
+  <name>mysquare</name>
+  <key>ex1_mysquare</key>
+  <category>ex1</category>
+  <import>import ex1</import>
+  <make>ex1.mysquare()</make>
+
+  <sink>
+    <name>in</name>
+    <type>float</type>
+    <nports>1</nports>
+  </sink>
+
+  <source>
+    <name>out</name>
+    <type>float</type>
+    <nports>1</nports>
+  </source>
+</block>
