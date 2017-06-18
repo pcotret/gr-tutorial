@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<block>
+  <name>myadd</name>
+  <key>ex3_myadd</key>
+  <category>ex3</category>
+  <import>import ex3</import>
+  <make>ex3.myadd()</make>
+
+  <sink>
+    <name>in</name>
+    <type>float</type>
+    <nports>3</nports>
+  </sink>
+
+  <source>
+    <name>out</name>
+    <type>float</type>
+    <nports>1</nports>
+  </source>
+</block>
