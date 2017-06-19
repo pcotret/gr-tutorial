@@ -56,8 +56,7 @@ namespace gr {
       ninput_items_required[0] = noutput_items;
     }
 
-    int
-    mymultiply_impl::general_work (int noutput_items,
+    int mymultiply_impl::general_work (int noutput_items,
                        gr_vector_int &ninput_items,
                        gr_vector_const_void_star &input_items,
                        gr_vector_void_star &output_items)
