@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<block>
+  <name>addPyt</name>
+  <key>pythonmath_addPyt</key>
+  <category>pythonmath</category>
+  <import>import pythonmath</import>
+  <make>pythonmath.addPyt()</make>
+  
+  <sink>
+    <name>in0</name>
+    <type>float</type>
+  </sink>
+    
+  <sink>
+    <name>in1</name>
+    <type>float</type>
+  </sink>  
+  
+  <sink>
+    <name>in2</name>
+    <type>float</type>
+  </sink>
+
+  <source>
+    <name>out</name>
+    <type>float</type>
+  </source>
+</block>

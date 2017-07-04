@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<block>
+  <name>squarePyt</name>
+  <key>pythonmath_squarePyt</key>
+  <category>pythonmath</category>
+  <import>import pythonmath</import>
+  <make>pythonmath.squarePyt()</make>
+  
+  <sink>
+    <name>in0</name>
+    <type>float</type>
+  </sink>
+
+  <source>
+    <name>out</name>
+    <type>float</type>
+  </source>
+</block>
